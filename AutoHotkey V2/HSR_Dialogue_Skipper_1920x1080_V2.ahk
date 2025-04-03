@@ -2,7 +2,7 @@
 #MaxThreadsPerHotkey 2
 SetDefaultMouseSpeed(0)
 
-F12::
+Alt::
 {
     static bFlag := false
     bFlag := !bFlag
